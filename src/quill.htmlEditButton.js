@@ -1,4 +1,5 @@
 import './styles.css';
+import Quill from 'quill';
 
 function $create(elName) {
   return document.createElement(elName);
